@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# COMP90042 Assignment data / outputs
+data/
+models/
+checkpoints/
+outputs/
+
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.pkl
+*.zip
